@@ -1,4 +1,4 @@
-## Slecting the right equity portfolio to match your risk profile
+# Select the optimum equity portfolio
 Using various risk and retruns matrix, this pages helps you identify the right mix of stocks and the portfoio allocation which suits your individual risk appetite.
 
 ## Portfolio of stock representing risk vs reward
