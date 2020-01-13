@@ -1,7 +1,11 @@
 ## Gajanan Patil
 Machine Learning and blockchain enthusiast.
 
+## Portfolio of stock representing risk vs reward
 
+Selected stocks were analyzed for their risk (measured by beta) &  reward(measured by returns over the last 1 month. The output of the study shows that Yes Bank is extremly risk and its returns are also the lowest.
+
+![Dashboard](https://github.com/bananapy/bananapy.github.io/raw/master/Dash.png)
 
 You can use the [editor on GitHub](https://github.com/bananapy/bananapy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,7 +33,7 @@ Syntax highlighted code block
 [Link](url) and ![Dashboard](src)
 ```
 
-![Dashboard](https://github.com/bananapy/bananapy.github.io/raw/master/Dash.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
