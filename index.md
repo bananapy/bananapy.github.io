@@ -28,4 +28,8 @@ Selected stocks were analyzed for their risk (measured by beta) &  reward(measur
 ![Aplha-beta](https://github.com/bananapy/bananapy.github.io/raw/master/beta.png)
 
 
+# FII & DII data (cash) in equities in Dec till mid Jan
+
+![FII-DII]https://github.com/bananapy/bananapy.github.io/raw/master/fii.png
+
 This website is maintained by [Gajanan Patil](https://www.linkedin.com/in/patilgajanan/)
