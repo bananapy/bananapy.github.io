@@ -26,9 +26,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Dashboard](https://github.com/bananapy/bananapy.github.io/blob/master/Dash.png)
+[Link](url) and ![Dashboard](src)
 ```
-![Dashboard](https://github.com/bananapy/bananapy.github.io/blob/master/Dash.png)
+![Dashboard](https://github.com/bananapy/bananapy.github.io/raw/master/Dash.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
