@@ -9,4 +9,23 @@ Selected stocks were analyzed for their risk (measured by beta) &  reward(measur
 
 ![Dashboard](https://github.com/bananapy/bananapy.github.io/raw/master/Dash.png)
 
+
+## Correlation between stocks of the portflio
+
+![Corr matrix](https://github.com/bananapy/bananapy.github.io/blob/master/result.png)
+
+
+## Volatilty index of stocks
+
+![Volatility index](https://github.com/bananapy/bananapy.github.io/blob/master/vix.png)
+
+## Stock wise equity returns
+
+![Returns](https://github.com/bananapy/bananapy.github.io/blob/master/pct%20change.png)
+
+## Alpha and beta of stocks
+
+![Aplha-beta](https://github.com/bananapy/bananapy.github.io/blob/master/beta.png)
+
+
 This website is maintained by [Gajanan Patil](https://www.linkedin.com/in/patilgajanan/)
