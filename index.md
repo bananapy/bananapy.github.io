@@ -34,6 +34,6 @@ This makes me wonder what is happening behind the scenes. Understandably FIIs an
 
 ![FII-DII](https://github.com/bananapy/bananapy.github.io/raw/master/fii.png)
 
-[Link](https://github.com/bananapy/bananapy.github.io/raw/master/fii.md)
+
 
 This website is maintained by [Gajanan Patil](https://www.linkedin.com/in/patilgajanan/)
