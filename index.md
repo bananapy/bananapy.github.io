@@ -28,11 +28,9 @@ Selected stocks were analyzed for their risk (measured by beta) &  reward(measur
 ![Aplha-beta](https://github.com/bananapy/bananapy.github.io/raw/master/beta.png)
 
 
-# FII & DII data (cash) in equities in Dec till mid Jan
-It is astonishing to see the near perfect negative correlation between activities of FII and DII investors in Indian stock market.
-This makes me wonder what is happening behind the scenes. Understandably FIIs and DIIs have independent research teams and and their confidence and optimism depends on factors which are slightly un-correlated, however such near perfect negative correlation has left a lot of unanswered questions in my mind. Afterall, every investors action in theory is based on possible future returns.
+# FII and DII activity in the month of Dec19
 
-![FII-DII](https://github.com/bananapy/bananapy.github.io/raw/master/fii.png)
+[click here to view details](https://bananapy.github.io/fii/dec19)
 
 
 
