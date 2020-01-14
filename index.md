@@ -33,6 +33,7 @@ It is astonishing to see the near perfect negative correlation between activitie
 This makes me wonder what is happening behind the scenes. Understandably FIIs and DIIs have independent research teams and and their confidence and optimism depends on factors which are slightly un-correlated, however such near perfect negative correlation has left a lot of unanswered questions in my mind. Afterall, every investors action in theory is based on possible future returns.
 
 ![FII-DII](https://github.com/bananapy/bananapy.github.io/raw/master/fii.png)
+
 [link](https://github.com/bananapy/bananapy.github.io/raw/gh-pages/fii.md)
 
 This website is maintained by [Gajanan Patil](https://www.linkedin.com/in/patilgajanan/)
