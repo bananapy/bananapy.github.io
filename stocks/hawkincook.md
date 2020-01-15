@@ -2,4 +2,4 @@
 
 ## Yearly average price moves in Nifty and Hawkins cooker
 
-![hawkincook](https://github.com/bananapy/bananapy.github.io/raw/master/stocks/chart.svg)
+![hawkincook](https://github.com/bananapy/bananapy.github.io/blob/master/stocks/chart.svg)
