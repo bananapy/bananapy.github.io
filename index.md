@@ -7,7 +7,7 @@ Making fortunes in stock markets is not about selcting one right stock one time,
 
 
 
-## [FII and DII activity in the month of Dec19](https://bananapy.github.io/fii/dec19)
+## [FII and DII activity](https://bananapy.github.io/fii/dec19)
 
 
 
