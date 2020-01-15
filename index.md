@@ -3,7 +3,7 @@
 
 Making fortunes in stock markets is not about selcting one right stock one time, but its about consistently selecting the winning stocks more number of times than the losing ones. Using cutting edge techonlogy to identify, measure and track various risk and retruns matrix, bananaPY, helps you select the right mix of stocks and the portfoio allocation which suits your individual risk appetite.
 
-# <span style="color:#f03c15">*Decisive dashboard representation of your portfolio's health *</span>
+# <span style="color:#f03c15">Decisive dashboard representation of your portfolio's health</span>
 
 ## Representing risk vs reward
 
