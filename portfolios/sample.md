@@ -1,4 +1,4 @@
-# <span style="color:#f03c15">Sample portfolio analyzed</span>
+# <span style="color:#1589F0">Sample portfolio analyzed</span>
 
 ### Representing risk vs reward
 
