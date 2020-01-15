@@ -1,4 +1,4 @@
-# Towards Data Driven Investing
+# <span style="color:blue">some *Towards Data Driven Investing* text</span>
 
 ## Select the optimal equity portfolio
 Using various risk and retruns matrix, this pages helps you identify the right mix of stocks and the portfoio allocation which suits your individual risk appetite.
