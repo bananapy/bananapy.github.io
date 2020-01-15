@@ -1,9 +1,11 @@
-# <span style="color:#f03c15">*Towards Data Driven Investing*</span>
 
-## Select the optimal equity portfolio
+# <span style="color:#1589F0">*Identify your optimal equity portfolio*</span>
+
 Using various risk and retruns matrix, this pages helps you identify the right mix of stocks and the portfoio allocation which suits your individual risk appetite.
 
-## Portfolio of stock representing risk vs reward
+# <span style="color:#f03c15">*Decisive dashboard representation of your portfolio's health *</span>
+
+## Representing risk vs reward
 
 Selected stocks were analyzed for their risk (measured by beta) &  reward(measured by returns over the last 1 month. The output of the study shows that Yes Bank is extremly risk and its returns are also the lowest.
 
