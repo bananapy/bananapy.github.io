@@ -5,6 +5,8 @@ Making fortunes in stock markets is not about selcting one right stock one time,
 
 ## [Portfolio Dashboard](https://bananapy.github.io/portfolios/sample)
 
+## [Price Predictions](https://bananapy.github.io/stocks/predictions)
+
 ## [Individual Stock analysis](https://bananapy.github.io/stocks/hawkincook)
 
 ## [Markets today](https://bananapy.github.io/daily/eod)
