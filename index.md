@@ -21,4 +21,4 @@ Making fortunes in stock markets is not about selcting one right stock one time,
 
 ## Commodity Markets
 
-Disclaimer: This is just an academic project and views are personal. We recommend you to use this information as a starting point for conducting your own research and due deligence. Before trading/investing, consult your investment advisory for suitability.
+Disclaimer: This is just an academic project and views are personal. We recommend you to use this information as a starting point for conducting your own research and due deligence. Before trading/investing, consult your investment advisor for suitability.
