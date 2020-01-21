@@ -1,4 +1,4 @@
-# Star of the day
+# Find of the day
 
 ## Sudarshan Chemicals on 21 Jan 2020
 
