@@ -1,3 +1,12 @@
+<div id="observablehq-345fc342"></div>
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@d3/smooth-zooming.js?v=3";
+const inspect = Inspector.into("#observablehq-345fc342");
+(new Runtime).module(define, name => (name === "chart") && inspect());
+</script>
+
+
 # Find of the day
 
 ## Sudarshan Chemicals on 21 Jan 2020
