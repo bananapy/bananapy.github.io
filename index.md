@@ -1,6 +1,7 @@
 # <span style="color:#f03c15">Building optimal equity portfolios</span>
 
-Making fortunes in stock markets is not about selcting one right stock one time, but its about consistently selecting the winning stocks more number of times than the losing ones. Using cutting edge techonlogy to identify, measure and track various risk and retruns matrix, bananaPY, helps you select the right mix of stocks and the portfoio allocation which suits your individual risk appetite.
+Selecting the right risk-return ratio is paramout for successful investing in the equity markets. Using cutting edge techonlogy to identify, measure and track various risk and retruns matries, bananaPY, helps you select the right mix of stocks and portfoio allocation that suits your risk appetite.
+The website is currently under construction however some posts can be seen below:
 
 ## [Portfolio Dashboard](https://bananapy.github.io/portfolios/sample)
 
