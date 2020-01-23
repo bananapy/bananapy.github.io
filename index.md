@@ -21,3 +21,6 @@ Making fortunes in stock markets is not about selcting one right stock one time,
 ## Commodity Markets
 
 Disclaimer: This is just an academic project and views are personal. We recommend you to use this information as a starting point for conducting your own research and due deligence. Before trading/investing, consult your investment advisor for suitability.
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="patilgajanan"><a class="LI-simple-link" href='https://in.linkedin.com/in/patilgajanan?trk=profile-badge'>Gajanan Patil</a></div>
