@@ -11,7 +11,7 @@ const inspect = Inspector.into("#observablehq-345fc342");
 
 ## Sudarshan Chemicals on 21 Jan 2020
 
-![](https://github.com/bananapy/bananapy.github.io/raw/master/daily/Sudarshan%20Chem.png){ width=50% }
+![](https://github.com/bananapy/bananapy.github.io/raw/master/daily/Sudarshan%20Chem.png)
 
 
 ## 16 Jan 2020
