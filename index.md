@@ -5,7 +5,6 @@
   height: 50%;
   width: 50%;
 }
-</div>
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@benjaminadk/high-school-clock.js?v=3";
