@@ -1,15 +1,16 @@
 # <span style="color:#f03c15">Building optimal equity portfolios</span>
 
-<div id="observablehq-14972647"></div>
+<div id="observablehq-14972647">
+  div {
+  height: 50%;
+  width: 50%;
+}
+</div>
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@benjaminadk/high-school-clock.js?v=3";
 const inspect = Inspector.into("#observablehq-14972647");
 (new Runtime).module(define, name => (name === "clock") && inspect());
-div {
-  height: 50%;
-  width: 50%;
-}
 </script>
 
 
