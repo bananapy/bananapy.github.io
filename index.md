@@ -1,7 +1,7 @@
 # <span style="color:#f03c15">Building optimal equity portfolios</span>
 
 <div id="observablehq-14972647">
-  div {
+{
   height: 50%;
   width: 50%;
 }
