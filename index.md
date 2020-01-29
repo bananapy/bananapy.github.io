@@ -6,11 +6,12 @@ import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/run
 import define from "https://api.observablehq.com/@benjaminadk/high-school-clock.js?v=3";
 const inspect = Inspector.into("#observablehq-14972647");
 (new Runtime).module(define, name => (name === "clock") && inspect());
-</script>
 div {
-  height: 200px;
+  height: 50%;
   width: 50%;
 }
+</script>
+
 
 
 Selecting the right risk-return ratio is paramout for successful investing in the equity markets. Using cutting edge techonlogy to identify, measure and track various risk and retruns matries, bananaPY, helps you select the right mix of stocks and portfoio allocation that suits your risk appetite.
