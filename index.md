@@ -1,10 +1,10 @@
 # <span style="color:#f03c15">Building optimal equity portfolios</span>
 
-<div id="observablehq-14972647">
+<div id="observablehq-3bd934ae"></div>
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@benjaminadk/high-school-clock.js?v=3";
-const inspect = Inspector.into("#observablehq-14972647");
+const inspect = Inspector.into("#observablehq-3bd934ae");
 (new Runtime).module(define, name => (name === "clock") && inspect());
 </script>
 
