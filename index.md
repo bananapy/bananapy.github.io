@@ -5,7 +5,7 @@
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@benjaminadk/high-school-clock.js?v=3";
 const inspect = Inspector.into("#observablehq-14972647");
-(new Runtime).module(define, name => (name === "clock") && inspect()){:height="36px" width="36px"};
+(new Runtime).module(define, name => (name === "clock") && inspect());
 </script>
 
 
