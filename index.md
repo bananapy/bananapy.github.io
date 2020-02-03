@@ -2,15 +2,8 @@
 
 
 Selecting the right risk-return ratio is paramout for successful investing in the equity markets. Using cutting edge techonlogy to identify, measure and track various risk and retruns matries, bananaPY, helps you select the right mix of stocks and portfoio allocation that suits your risk appetite.
-The website is currently under construction, see the completion percentage below: 
+The website is currently under construction.
 
-<div id="observablehq-7ab17de0"></div>
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@nhogs/svg-conic-gradient-simulation-in-progress-donut-chart.js?v=3";
-const inspect = Inspector.into("#observablehq-7ab17de0");
-(new Runtime).module(define, name => (name === "chart") && inspect());
-</script>
 
 Some posts can be accessed by clicking the links below:
 
