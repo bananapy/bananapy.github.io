@@ -15,7 +15,7 @@ Some posts can be accessed by clicking the links below:
 
 ## [Markets today](https://bananapy.github.io/daily/eod)
 
-## [Economy update](https://bananapy.github.io/fii/dec19)
+## [Economy update](https://bananapy.github.io/economy/index)
 
 ## [Sector Analysis](https://bananapy.github.io/sector/power)
 
