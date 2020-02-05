@@ -29,7 +29,7 @@
 
         // Set chart options
         var options = {'title':'Suggested portfolio as on 5 Feb 2020',
-                       'width':300,
+                       'width':400,
                        'height':300};
 
         // Instantiate and draw our chart, passing in some options.
