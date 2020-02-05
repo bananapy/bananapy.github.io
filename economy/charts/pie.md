@@ -20,15 +20,15 @@
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
         data.addRows([
-          ['Mushrooms', 3],
-          ['Onions', 1],
-          ['Olives', 1],
-          ['Zucchini', 1],
-          ['Pepperoni', 2]
+          ['Pidilite', 3],
+          ['IRCTC', 1],
+          ['Hawkins', 1],
+          ['Adani Green', 1],
+          ['Dmart', 2]
         ]);
 
         // Set chart options
-        var options = {'title':'How Much Pizza I Ate Last Night',
+        var options = {'title':'Suggested portfolio as on 5 Feb 2020',
                        'width':400,
                        'height':300};
 
