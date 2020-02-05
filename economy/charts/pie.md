@@ -29,8 +29,8 @@
 
         // Set chart options
         var options = {'title':'Suggested portfolio as on 5 Feb 2020',
-                       'width':400,
-                       'height':300};
+                       'width':600,
+                       'height':500};
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
