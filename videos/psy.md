@@ -1,4 +1,4 @@
-# **<span style="color:#1589F0">A few handpicked vidoes on pyschology</span>**
+# **<span style="color:#1589F0">Handpicked pyschology</span>**
 
 ## Hitler, Gandhi and Tyranny
 
