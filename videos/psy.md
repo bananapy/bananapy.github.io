@@ -8,3 +8,6 @@ If 15 peopel within a short period of time tell you something good about yoursel
 
 ## How to practice effectively.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f2O6mQkFiiw?start=135" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Risk taking and probability
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBX-KulgJ1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
