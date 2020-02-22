@@ -6,9 +6,11 @@ The website is currently under construction.
 
 
 Some posts can be accessed by clicking the links below:
+<i class="fas fa-skull fa-xs" style="color: #845ef7;"></i>
+
 
 ## [Portfolio Dashboard](https://bananapy.github.io/portfolios/sample) 
-<i class="fas fa-skull fa-xs" style="color: #845ef7;"></i>
+
 
 ## [Price Predictions](https://bananapy.github.io/stocks/predictions)
 
