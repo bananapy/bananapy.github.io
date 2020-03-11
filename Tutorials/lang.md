@@ -7,3 +7,9 @@ Ich habe Hunger, kann ich etwas essen?|	J'ai faim, puis-je manger quelque chose?
 wie viel wird das sein?	| combien cela coûtera-t-il? |	¿cuánto será eso?
 Ich denke, das sollte in Ordnung sein	| je pense que ça devrait aller	| creo que esto debería estar bien
 Könntest du eine Geschichte erzählen? |	seriez-vous capable de raconter une histoire |serías capaz de contar una historia
+
+
+<br>
+```mermaid
+graph TD; A-->B; A-->C; B-->D; C-->D;
+```
